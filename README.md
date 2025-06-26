@@ -1,45 +1,105 @@
-# Patika-Apps
+# 🚀 Patika+ 4 Months Front-End Web Developer Bootcamp
 
-Bu depo, çeşitli web geliştirme projelerini ve uygulama örneklerini içermektedir. Her bir klasör, farklı bir projeye veya uygulamaya aittir. Projeler; HTML, CSS, JavaScript ve React.js gibi teknolojiler kullanılarak geliştirilmiştir.
+Bu repo, **Patika+ 4 Months Front-End Web Developer Bootcamp** sürecinde geliştirdiğim projeleri ve çalışmalarımı içermektedir.
 
-## Klasörler ve Açıklamaları
+---
 
-- **asian-kitchen-menu/**: Asya mutfağı menüsü örneği, görseller ve menü filtreleme özellikleri içerir.
-- **blog-istanbul-tour-bootstrap/**: Bootstrap ile hazırlanmış İstanbul turu temalı blog sayfası.
-- **blog-page-istanbul-tour/**: İstanbul turu için blog sayfası, temel HTML/CSS ile hazırlanmış.
-- **clock-javascript/**: JavaScript ile yapılmış dijital saat uygulaması.
-- **dice-game-reactjs/**: React.js ile geliştirilmiş zar atma oyunu.
-- **first-website-html/**: Temel HTML ile hazırlanmış ilk web sitesi örneği.
-- **guide-website-html/**: Kılavuz/rehber web sitesi, çoklu sayfa yapısı ile.
-- **instagram-clone-bootstrap/**: Bootstrap ile hazırlanmış Instagram arayüz klonu.
-- **iphone15pro-landing-page/**: iPhone 15 Pro için modern bir tanıtım/landing page.
-- **landing-page-tailwind/**: Tailwind CSS ile hazırlanmış modern bir açılış sayfası.
-- **library-app-frontend/**: Kütüphane uygulaması için React.js tabanlı ön yüz.
-- **linkedin-clone-bootstrap/**: LinkedIn arayüzünün Bootstrap ile hazırlanmış klonu.
-- **notes-app-reactjs/**: React.js ile yapılmış not alma uygulaması.
-- **question-app-reactjs/**: React.js ile geliştirilmiş soru-cevap/quiz uygulaması.
-- **review-page-tailwind/**: Tailwind CSS ile hazırlanmış kullanıcı yorumları sayfası.
-- **spend-money-app-reactjs/**: React.js ile yapılmış harcama simülasyonu uygulaması.
-- **sport-center-reactjs/**: Spor merkezi için React.js ile hazırlanmış web uygulaması.
-- **sport-center-vanillajs/**: Spor merkezi için vanilla JS ile hazırlanmış web uygulaması.
-- **star-wars-api-reactjs/**: Star Wars API ile çalışan React.js uygulaması.
-- **summary-html/**: HTML ile hazırlanmış özet/proje tanıtım sayfası.
-- **survey-form-html/**: HTML ile hazırlanmış anket formu örneği.
-- **todo-app-reactjs/**: React.js ile yapılmış yapılacaklar listesi uygulaması.
-- **todo-list-js/**: Vanilla JS ile yapılmış yapılacaklar listesi uygulaması.
-- **tribute-website-george-orwell/**: George Orwell için hazırlanmış tribute/kişisel web sitesi.
+## 🎓 Bootcamp Hakkında
 
-## Nasıl Kullanılır?
+- **Cohort:** Eğitimimize, "cohort" adı verilen offline platform ile asenkron bir şekilde başladık; sürecimiz, canlı dersler (Live Class) ile de desteklendi.
+- **Süre:** 4 ay (16 hafta, toplam 126 gün)
+- **Çalışma Süresi:** Ortalama 630 saat
+- **Projeler:** 
+    - 8  **react.js** projesi, 
+    - 4  **javascript** projesi,
+    - 4 **bootstrap** projesi, 
+    - 2 **tailwind** projesi, 
+    - 5 **HTML & CSS** projesi
+
+### 🎯 Etkinlikler
+- 6 adet soft skill etkinliği
+- 2 adet mezun sohbeti etkinliği
+- 2 adet speed networking etkinliği
+- 28 adet Live Class (canlı ders)
+
+---
+
+## 📚 Projeler 
+Her projenin detaylı açıklaması ilgili klasörün README dosyasında yer almaktadır.
+
+### ⚛️ React.js  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+* #### Dice Game | [dice-game-reactjs repo](https://github.com/tunahanyasar/dice-game-reactjs) | [Live Demo](https://dice-game-reactjs-gilt.vercel.app/)
+  &nbsp;&nbsp;React ve Vite ile geliştirilmiş, iki oyunculu, modern ve tamamen responsive bir zar oyunu. Kullanıcılar isimlerini değiştirebilir, animasyonlu zar atabilir ve anlık sonuçları görebilirler.
+* #### Library App | [library-app-frontend repo](https://github.com/tunahanyasar/library-app-frontend) | [Live Demo](https://library-app-frontend-omega.vercel.app/)
+  &nbsp;&nbsp;Kütüphane yönetimi için geliştirilmiş React tabanlı bir uygulama. Kitap ve yazar yönetimi, ödünç alma gibi temel işlevler içerir.
+* #### Notes App | [notes-app-reactjs repo](https://github.com/tunahanyasar/notes-app-reactjs) | [Live Demo](https://notes-app-reactjs-omega.vercel.app/)
+  &nbsp;&nbsp;React ile component yapısı kullanılarak hazırlanmış, kullanıcıların not ekleyip düzenleyebildiği basit ve modern bir not alma uygulaması.
+* #### Question App | [question-app-reactjs repo](https://github.com/tunahanyasar/question-app-reactjs) | [Live Demo](https://hafta-11-question-app.vercel.app/)
+  &nbsp;&nbsp;React ile hazırlanmış, kullanıcıya çoktan seçmeli sorular soran ve sonuçlarını gösteren bir quiz uygulaması.
+* #### Spend Money App | [spend-money-app-reactjs repo](https://github.com/tunahanyasar/spend-money-app-reactjs) | [Live Demo](https://spend-money-app-reactjs.vercel.app/)
+  &nbsp;&nbsp;Kullanıcıya verilen sanal parayla çeşitli ürünler satın almasını sağlayan, harcama simülasyonu sunan React uygulaması.
+* #### Sport Center | [sport-center-reactjs repo](https://github.com/tunahanyasar/sport-center-reactjs) | [Live Demo](https://sport-center-reactjs.vercel.app/)
+  &nbsp;&nbsp;Spor merkezi için hazırlanmış, üyelik, BMI hesaplama, ders programı ve yorumlar gibi özellikler sunan kapsamlı bir React uygulaması.
+* #### Star Wars Api | [star-wars-api-reactjs repo](https://github.com/tunahanyasar/star-wars-api-reactjs) | [Live Demo](https://star-wars-api-reactjs.vercel.app/)
+  &nbsp;&nbsp;Star Wars API ile entegre çalışan, uzay gemileri ve karakterler hakkında bilgi sunan modern bir React uygulaması.
+* #### Todo App | [todo-app-reactjs repo](https://github.com/tunahanyasar/todo-app-reactjs) | [Live Demo](https://todo-app-reactjs-flame.vercel.app/)
+  &nbsp;&nbsp;Yapılacaklar listesi oluşturmak ve yönetmek için React ile hazırlanmış, kullanıcı dostu bir uygulama.
+
+### :yellow_circle: JavaScript  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* #### Asian Kitchen Menu | [asian-kitchen-menu repo](https://github.com/tunahanyasar/asian-kitchen-s-menu) | [Live Demo](https://asian-kitchen-s-menu.vercel.app/)
+  &nbsp;&nbsp;JavaScript ile dinamik olarak oluşturulan, kategori filtreleme ve Bootstrap 4 ile responsive tasarım sunan bir restoran menü uygulaması.
+* #### Clock Javascript | [clock-javascript repo](https://github.com/tunahanyasar/clock-javascript) | [Live Demo](https://clock-javascript-sepia.vercel.app/)
+  &nbsp;&nbsp;Kullanıcıdan isim alıp ekrana yazan ve gerçek zamanlı dijital saat gösteren, Bootstrap ile şıklaştırılmış bir JavaScript uygulaması.
+* #### Sport Center Vanillajs | [sport-center-vanillajs repo](https://github.com/tunahanyasar/Hafta-8-Sport-Center) | [Live Demo](https://warm-pixie-710995.netlify.app/)
+  &nbsp;&nbsp;Spor merkezi için vanilla JS ile hazırlanmış, üyelik, BMI hesaplama ve ders programı gibi temel işlevler sunan web uygulaması.
+* #### Todo List Js | [todo-list-js repo](https://github.com/tunahanyasar/todo-list-js) | [Live Demo](https://todo-list-js-wheat.vercel.app/)
+  &nbsp;&nbsp;Vanilla JS ile yapılmış, yapılacaklar ekleyip tamamlananları işaretleyebileceğiniz basit bir todo list uygulaması.
+
+### :purple_circle: Bootstrap ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+* #### Blog Istanbul Tour | [blog-istanbul-tour-bootstrap repo](https://github.com/tunahanyasar/blog-istanbul-tour-bootstrap) | [Live Demo](https://blog-istanbul-tour-bootstrap.vercel.app/)
+  &nbsp;&nbsp;İstanbul turu temalı, Bootstrap 4 ile responsive ve modern bir blog sitesi. Kategoriler, kartlar ve sabit yan menü içerir.
+* #### Instagram Clone | [instagram-clone-bootstrap repo](https://github.com/tunahanyasar/instagram-clone-bootstrap) | [Live Demo](https://instagram-clone-bootstrap-three.vercel.app/)
+  &nbsp;&nbsp;Gerçek Instagram arayüzüne benzer, Bootstrap 4 ile responsive olarak hazırlanmış sosyal medya klonu.
+* #### Linkedin Clone | [linkedin-clone-bootstrap repo](https://github.com/tunahanyasar/linkedin-clone-bootstrap) | [Live Demo](https://linkedin-clone-bootstrap.vercel.app/)
+  &nbsp;&nbsp;LinkedIn ana sayfasının Bootstrap 4 ile responsive olarak klonlandığı, sabit chat ve aside bölümleri içeren bir proje.
+* #### Iphone15pro Landing Page | [iphone15pro-landing-page repo](https://github.com/tunahanyasar/iphone15pro-landing-page) | [Live Demo](https://iphone15pro-landing-page-ten.vercel.app/)
+  &nbsp;&nbsp;Apple'ın iPhone 15 Pro tanıtım sayfasından esinlenerek Bootstrap 5 ve çeşitli kütüphanelerle hazırlanmış modern bir landing page.
+
+### 🌊 TailwindCSS ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* #### Landing Page Tailwind | [landing-page-tailwind repo](https://github.com/tunahanyasar/landing-page-tailwind) | [Live Demo](https://landing-page-tailwind-alpha.vercel.app/)
+  &nbsp;&nbsp;TailwindCSS ile hazırlanmış, modern ve tek sayfa bir açılış (landing) sayfası. Responsive ve şık bir tasarıma sahiptir.
+* #### Review Page Tailwind | [review-page-tailwind repo](https://github.com/tunahanyasar/review-page-tailwind) | [Live Demo](https://review-page-tailwind.vercel.app/)
+  &nbsp;&nbsp;Kullanıcı yorumlarını modern ve responsive şekilde listeleyen, TailwindCSS ile hazırlanmış bir sayfa.
+
+### 📝 HTML & CSS ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* #### First Website | [first-website-html repo](https://github.com/tunahanyasar/first-website-html)
+  &nbsp;&nbsp;Temel HTML ve CSS ile hazırlanmış, semantik etiketler ve düzenli içerik yapısı sunan bir blog sayfası.
+* #### Guide Website | [guide-website-html repo](https://github.com/tunahanyasar/guide-website-html) | [Live Demo](https://guide-website-html.vercel.app/)
+  &nbsp;&nbsp;Çoklu sayfa yapısı, form ve modern CSS ile hazırlanmış bir rehber/kılavuz sitesi.
+* #### Summary | [summary-html repo](https://github.com/tunahanyasar/summary-html) | [Live Demo](https://summary-html.vercel.app/)
+  &nbsp;&nbsp;Kişisel özet ve proje tanıtım sayfası olarak hazırlanmış, sade ve anlaşılır bir HTML/CSS projesi.
+* #### Survey Form | [survey-form-html repo](https://github.com/tunahanyasar/survey-form-html) | [Live Demo](https://survey-form-html-psi.vercel.app/)
+  &nbsp;&nbsp;HTML ile hazırlanmış, kullanıcıdan bilgi toplayan basit ve erişilebilir bir anket formu.
+* #### Tribute Website George Orwell | [tribute-website-george-orwell repo](https://github.com/tunahanyasar/tribute-website-george-orwell) | [Live Demo](https://tribute-website-george-orwell.vercel.app/)
+  &nbsp;&nbsp;George Orwell için hazırlanan, biyografi ve kitap tanıtımları içeren kişisel/tribute web sitesi.
+
+
+
+---
+
+## 🛠️ Nasıl Kullanılır?
 
 1. İlgilendiğiniz klasöre girin.
 2. Proje dokümantasyonunu (varsa) ve README dosyalarını inceleyin.
 3. HTML/CSS/JS projeleri için `index.html` dosyasını tarayıcıda açabilirsiniz.
-4. React.js projeleri için ilgili klasörde `npm install` ve ardından `npm start` komutlarını kullanarak projeyi başlatabilirsiniz.
+4. React.js projeleri için ilgili klasörde `npm install` ve ardından `npm run dev` komutlarını kullanarak projeyi başlatabilirsiniz.
 
-## Katkıda Bulunma
 
-Katkıda bulunmak isterseniz, lütfen fork'layıp pull request gönderin veya issue açın.
+---
 
-## Lisans
+## 📞 İletişim
 
-Bu depo, kişisel öğrenme ve portföy amaçlıdır. Her bir alt projenin kendi içinde farklı lisansları olabilir. Kullanım öncesi ilgili klasörün README dosyasını kontrol ediniz.
+[Tunahan Yaşar](https://github.com/tunahanyasar)
+
+* GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
+* LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/) 
