@@ -34,12 +34,12 @@ This repository uses [git submodules](https://git-scm.com/book/en/v2/Git-Tools-S
 ### 1. Clone the Repository with All Submodules
 
 ```sh
-git clone https://github.com/tunahanyasar/Patika-Apps.git
-cd Patika-Apps
+git clone https://github.com/tunahanyasar/patika-all-rojects.git
+cd patika-all-rojects
 git submodule update --init --recursive
 ```
 
-> **Note:** If you only clone the main repository, subproject folders will appear empty. The above commands ensure all project folders and their contents are downloaded.
+> **Note:** If you only clone the main repo, the subproject folders will appear empty. The [ git submodule update --init --recursive ] command downloads all project folders and their contents.
 
 ### 2. Enter the Project Folder
 - Navigate to the folder of the project you are interested in.

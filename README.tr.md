@@ -35,12 +35,12 @@ Bu depo, her proje klasörü için [git submodule](https://git-scm.com/book/tr/v
 ### 1. Repoyu Tüm Alt Projelerle Birlikte Klonlayın
 
 ```sh
-git clone https://github.com/tunahanyasar/Patika-Apps.git
-cd Patika-Apps
+git clone https://github.com/tunahanyasar/patika-all-rojects.git
+cd patika-all-rojects
 git submodule update --init --recursive
 ```
 
-> **Not:** Sadece ana repoyu klonlarsanız, alt proje klasörleri boş görünür. Yukarıdaki komutlar tüm proje klasörlerini ve içeriklerini indirir.
+> **Not:** Sadece ana repoyu klonlarsanız, alt proje klasörleri boş görünür. [ git submodule update --init --recursive ] komutu tüm proje klasörlerini ve içeriklerini indirir.
 
 ### 2. Proje Klasörüne Girin
 - İlgilendiğiniz projenin klasörüne girin.
