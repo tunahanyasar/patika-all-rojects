@@ -27,6 +27,37 @@ Bu repo, **Patika+ 4 Months Front-End Web Developer Bootcamp** sürecinde geliş
 
 ---
 
+
+## 🛠️ Nasıl Kullanılır?
+
+Bu depo, her proje klasörü için [git submodule](https://git-scm.com/book/tr/v2/Git-Ara%C3%A7lar%C4%B1-Submod%C3%BCl) kullanır. Projeleri kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
+
+### 1. Repoyu Tüm Alt Projelerle Birlikte Klonlayın
+
+```sh
+git clone https://github.com/tunahanyasar/Patika-Apps.git
+cd Patika-Apps
+git submodule update --init --recursive
+```
+
+> **Not:** Sadece ana repoyu klonlarsanız, alt proje klasörleri boş görünür. Yukarıdaki komutlar tüm proje klasörlerini ve içeriklerini indirir.
+
+### 2. Proje Klasörüne Girin
+- İlgilendiğiniz projenin klasörüne girin.
+- Proje dokümantasyonunu (varsa) ve README dosyalarını inceleyin.
+
+### 3. Projeyi Çalıştırın
+- **HTML/CSS/JS** projeleri için: `index.html` dosyasını tarayıcıda açın.
+- **React.js** projeleri için: İlgili klasörde `npm install` ve ardından `npm run dev` komutlarını çalıştırın.
+
+### 4. (Opsiyonel) Submodule Güncelleme
+Tüm alt projeleri en güncel hallerine çekmek için:
+```sh
+git submodule update --remote --merge
+```
+
+---
+
 ## 📚 Projeler 
 Her projenin detaylı açıklaması ilgili klasörün README dosyasında yer almaktadır.
 
@@ -88,16 +119,6 @@ Her projenin detaylı açıklaması ilgili klasörün README dosyasında yer alm
   &nbsp;&nbsp;Çoklu sayfa yapısı, form ve modern CSS ile hazırlanmış bir rehber/kılavuz sitesi.
 * #### Summary | [🔗 Repo](https://github.com/tunahanyasar/summary-html) | [🌐 Live Demo](https://summary-html.vercel.app/)
   &nbsp;&nbsp;Kişisel özet ve proje tanıtım sayfası olarak hazırlanmış, sade ve anlaşılır bir HTML/CSS projesi.
-
----
-
-## 🛠️ Nasıl Kullanılır?
-
-1. İlgilendiğiniz klasöre girin.
-2. Proje dokümantasyonunu (varsa) ve README dosyalarını inceleyin.
-3. HTML/CSS/JS projeleri için `index.html` dosyasını tarayıcıda açabilirsiniz.
-4. React.js projeleri için ilgili klasörde `npm install` ve ardından `npm run dev` komutlarını kullanarak projeyi başlatabilirsiniz.
-
 
 ---
 

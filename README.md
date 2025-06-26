@@ -27,6 +27,36 @@ This repository contains the projects and works I developed during the **Patika+
 
 ---
 
+## 🛠️ How to Use?
+
+This repository uses [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for each project folder. To use or run the projects locally, follow these steps:
+
+### 1. Clone the Repository with All Submodules
+
+```sh
+git clone https://github.com/tunahanyasar/Patika-Apps.git
+cd Patika-Apps
+git submodule update --init --recursive
+```
+
+> **Note:** If you only clone the main repository, subproject folders will appear empty. The above commands ensure all project folders and their contents are downloaded.
+
+### 2. Enter the Project Folder
+- Navigate to the folder of the project you are interested in.
+- Review the project documentation (if available) and README files inside each project.
+
+### 3. Run the Project
+- For **HTML/CSS/JS** projects: Open the `index.html` file in your browser.
+- For **React.js** projects: Run `npm install` and then `npm run dev` in the relevant folder to start the project.
+
+### 4. (Optional) Update Submodules
+If you want to update all submodules to their latest versions:
+```sh
+git submodule update --remote --merge
+```
+
+---
+
 ## 📚 Projects
 Each project has a detailed description in its own folder's README file.
 
@@ -87,17 +117,6 @@ Each project has a detailed description in its own folder's README file.
   &nbsp;&nbsp;A multi-page guide website built with modern CSS and forms.
 * #### Summary | [🔗 Repo](https://github.com/tunahanyasar/summary-html) | [🌐 Live Demo](https://summary-html.vercel.app/)
   &nbsp;&nbsp;A personal summary and project showcase page, designed with clean and simple HTML/CSS.
-
----
-
-## 🛠️ How to Use?
-
-1. Enter the folder of the project you are interested in.
-2. Review the project documentation (if available) and README files.
-3. For HTML/CSS/JS projects, open the `index.html` file in your browser.
-4. For React.js projects, run `npm install` and then `npm run dev` in the relevant folder to start the project.
-
-
 
 ---
 
