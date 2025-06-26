@@ -1,5 +1,8 @@
 # 🚀 Patika+ 4 Months Front-End Web Developer Bootcamp
 
+[🇬🇧 İngilizce README için tıklayın](./README.md)
+
+
 > &nbsp;
 >  ## 🏅 Sertifika
 > 
