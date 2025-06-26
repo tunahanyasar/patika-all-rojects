@@ -2,16 +2,6 @@
 
 [🇹🇷 Click for Turkish README](./README.tr.md)
 
-> &nbsp;
->  ## 🏅 Certificate
-> 
-> I successfully graduated from the bootcamp and earned a certificate.
-> 
-> ![Patika+ Certificate](images/certificate.jpg)
-> 
-> [🔗 View My Certificate](https://cohorts.patika.dev/certificates/2o84KMFS)
-> &nbsp;
-
 This repository contains the projects and works I developed during the **Patika+ 4 Months Front-End Web Developer Bootcamp**.
 
 ---
@@ -107,6 +97,18 @@ Each project has a detailed description in its own folder's README file.
 3. For HTML/CSS/JS projects, open the `index.html` file in your browser.
 4. For React.js projects, run `npm install` and then `npm run dev` in the relevant folder to start the project.
 
+
+
+---
+
+## 🏅 Certificate
+
+I successfully graduated from the bootcamp and earned a certificate.
+
+<img src="images/certificate.jpg" alt="Patika+ Certificate" width="700px" />
+
+[🔗 View My Certificate](https://cohorts.patika.dev/certificates/2o84KMFS)
+
 ---
 
 ## 📞 Contact
@@ -114,4 +116,4 @@ Each project has a detailed description in its own folder's README file.
 [Tunahan Yaşar](https://github.com/tunahanyasar)
 
 * GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
-* LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/) 
+* LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/)

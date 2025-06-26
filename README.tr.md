@@ -2,17 +2,6 @@
 
 [🇬🇧 İngilizce README için tıklayın](./README.md)
 
-
-> &nbsp;
->  ## 🏅 Sertifika
-> 
-> Bootcamp sonunda başarıyla mezun olarak sertifika almaya hak kazandım.
-> 
-> ![Patika+ Sertifika](images/certificate.jpg)
-> 
-> [🔗 Sertifikamı Görüntüle](https://cohorts.patika.dev/certificates/2o84KMFS)
-> &nbsp;
-
 Bu repo, **Patika+ 4 Months Front-End Web Developer Bootcamp** sürecinde geliştirdiğim projeleri ve çalışmalarımı içermektedir.
 
 ---
@@ -100,9 +89,6 @@ Her projenin detaylı açıklaması ilgili klasörün README dosyasında yer alm
 * #### Summary | [🔗 Repo](https://github.com/tunahanyasar/summary-html) | [🌐 Live Demo](https://summary-html.vercel.app/)
   &nbsp;&nbsp;Kişisel özet ve proje tanıtım sayfası olarak hazırlanmış, sade ve anlaşılır bir HTML/CSS projesi.
 
-
-
-
 ---
 
 ## 🛠️ Nasıl Kullanılır?
@@ -115,9 +101,19 @@ Her projenin detaylı açıklaması ilgili klasörün README dosyasında yer alm
 
 ---
 
+## 🏅 Sertifika
+
+Bootcamp sonunda başarıyla mezun olarak sertifika almaya hak kazandım.
+
+<img src="images/certificate.jpg" alt="Patika+ Sertifika" width="700px" />
+
+[🔗 Sertifikamı Görüntüle](https://cohorts.patika.dev/certificates/2o84KMFS)
+
+--- 
+
 ## 📞 İletişim
 
 [Tunahan Yaşar](https://github.com/tunahanyasar)
 
 * GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
-* LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/) 
+* LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/)
