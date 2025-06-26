@@ -1,0 +1,72 @@
+[submodule "asian-kitchen-menu"]
+	path = asian-kitchen-menu
+	url = https://github.com/kullanici/asian-kitchen-menu.git
+[submodule "blog-istanbul-tour-bootstrap"]
+	path = blog-istanbul-tour-bootstrap
+	url = https://github.com/tunahanyasar/blog-istanbul-tour-bootstrap.git
+[submodule "blog-page-istanbul-tour"]
+	path = blog-page-istanbul-tour
+	url = https://github.com/tunahanyasar/blog-page-istanbul-tour.git
+[submodule "clock-javascript"]
+	path = clock-javascript
+	url = https://github.com/tunahanyasar/clock-javascript.git
+[submodule "dice-game-reactjs"]
+	path = dice-game-reactjs
+	url = https://github.com/tunahanyasar/dice-game-reactjs.git
+[submodule "first-website-html"]
+	path = first-website-html
+	url = https://github.com/tunahanyasar/first-website-html.git
+[submodule "guide-website-html"]
+	path = guide-website-html
+	url = https://github.com/tunahanyasar/guide-website-html.git
+[submodule "instagram-clone-bootstrap"]
+	path = instagram-clone-bootstrap
+	url = https://github.com/tunahanyasar/instagram-clone-bootstrap.git
+[submodule "iphone15pro-landing-page"]
+	path = iphone15pro-landing-page
+	url = https://github.com/tunahanyasar/iphone15pro-landing-page.git
+[submodule "landing-page-tailwind"]
+	path = landing-page-tailwind
+	url = https://github.com/tunahanyasar/landing-page-tailwind.git
+[submodule "library-app-frontend"]
+	path = library-app-frontend
+	url = https://github.com/tunahanyasar/library-app-frontend.git
+[submodule "linkedin-clone-bootstrap"]
+	path = linkedin-clone-bootstrap
+	url = https://github.com/tunahanyasar/linkedin-clone-bootstrap.git
+[submodule "notes-app-reactjs"]
+	path = notes-app-reactjs
+	url = https://github.com/tunahanyasar/notes-app-reactjs.git
+[submodule "question-app-reactjs"]
+	path = question-app-reactjs
+	url = https://github.com/tunahanyasar/question-app-reactjs.git
+[submodule "review-page-tailwind"]
+	path = review-page-tailwind
+	url = https://github.com/tunahanyasar/review-page-tailwind.git
+[submodule "spend-money-app-reactjs"]
+	path = spend-money-app-reactjs
+	url = https://github.com/tunahanyasar/spend-money-app-reactjs.git
+[submodule "sport-center-reactjs"]
+	path = sport-center-reactjs
+	url = https://github.com/tunahanyasar/sport-center-reactjs.git
+[submodule "sport-center-vanillajs"]
+	path = sport-center-vanillajs
+	url = https://github.com/tunahanyasar/sport-center-vanillajs.git
+[submodule "star-wars-api-reactjs"]
+	path = star-wars-api-reactjs
+	url = https://github.com/tunahanyasar/star-wars-api-reactjs.git
+[submodule "summary-html"]
+	path = summary-html
+	url = https://github.com/tunahanyasar/summary-html.git
+[submodule "survey-form-html"]
+	path = survey-form-html
+	url = https://github.com/tunahanyasar/survey-form-html.git
+[submodule "todo-app-reactjs"]
+	path = todo-app-reactjs
+	url = https://github.com/tunahanyasar/todo-app-reactjs.git
+[submodule "todo-list-js"]
+	path = todo-list-js
+	url = https://github.com/tunahanyasar/todo-list-js.git
+[submodule "tribute-website-george-orwell"]
+	path = tribute-website-george-orwell
+	url = https://github.com/tunahanyasar/tribute-website-george-orwell.git
