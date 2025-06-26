@@ -1,6 +1,3 @@
-[submodule "asian-kitchen-menu"]
-	path = asian-kitchen-menu
-	url = https://github.com/kullanici/asian-kitchen-menu.git
 [submodule "blog-istanbul-tour-bootstrap"]
 	path = blog-istanbul-tour-bootstrap
 	url = https://github.com/tunahanyasar/blog-istanbul-tour-bootstrap.git
@@ -70,3 +67,6 @@
 [submodule "tribute-website-george-orwell"]
 	path = tribute-website-george-orwell
 	url = https://github.com/tunahanyasar/tribute-website-george-orwell.git
+[submodule "asian-kitchen-menu"]
+	path = asian-kitchen-menu
+	url = https://github.com/tunahanyasar/asian-kitchen-s-menu.git
