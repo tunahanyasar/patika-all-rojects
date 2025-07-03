@@ -34,13 +34,32 @@ Bu depo, her proje klasörü için [git submodule](https://git-scm.com/book/tr/v
 
 ### 1. Repoyu Tüm Alt Projelerle Birlikte Klonlayın
 
+## 🚀 Kurulum Rehberi
+
+#### 1️⃣ Projeyi Klonlayın
 ```sh
 git clone https://github.com/tunahanyasar/patika-all-rojects.git
-cd patika-all-rojects
-git submodule update --init --recursive
 ```
 
+#### 2️⃣ Proje Klasörüne Girin
+```sh
+cd patika-all-rojects
+```
+
+#### 3️⃣ Alt Modülleri Güncelleyin
+```sh
+git submodule update --init --recursive
+```
 > **Not:** Sadece ana repoyu klonlarsanız, alt proje klasörleri boş görünür. [ git submodule update --init --recursive ] komutu tüm proje klasörlerini ve içeriklerini indirir.
+#### ✅ Kurulum Tamamlandı!
+Projelerin yüklenmesi biraz zaman alabilir.
+ * Artık projeyi kullanmaya başlayabilirsiniz.
+
+
+
+
+
+
 
 ### 2. Proje Klasörüne Girin
 - İlgilendiğiniz projenin klasörüne girin.
@@ -50,6 +69,30 @@ git submodule update --init --recursive
 - **HTML/CSS/JS** projeleri için: `index.html` dosyasını tarayıcıda açın.
 - **React.js** projeleri için: İlgili klasörde `npm install` ve ardından `npm run dev` komutlarını çalıştırın.
 
+### 📁 Proje Kullanım Örnekleri
+
+#### 🎯 Belirli Bir Projeyi Açma
+```sh
+# Örnek: Todo uygulamasını açma
+cd todo-app-reactjs
+npm install
+npm start
+```
+
+#### 🌐 HTML Projelerini Açma
+```sh
+# Örnek: İlk website projesini tarayıcıda açma
+cd first-website-html
+# index.html dosyasını tarayıcıda açın
+```
+
+#### ⚛️ React Projelerini Çalıştırma
+```sh
+# Örnek: Notes uygulamasını başlatma
+cd notes-app-reactjs
+npm install
+npm run dev
+```
 ### 4. (Opsiyonel) Submodule Güncelleme
 Tüm alt projeleri en güncel hallerine çekmek için:
 ```sh

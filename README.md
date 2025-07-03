@@ -31,15 +31,27 @@ This repository contains the projects and works I developed during the **Patika+
 
 This repository uses [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for each project folder. To use or run the projects locally, follow these steps:
 
-### 1. Clone the Repository with All Submodules
+## 🚀 Installation Guide
 
+#### 1️⃣ Clone the Project
 ```sh
 git clone https://github.com/tunahanyasar/patika-all-rojects.git
-cd patika-all-rojects
-git submodule update --init --recursive
 ```
 
+#### 2️⃣ Enter the Project Folder
+```sh
+cd patika-all-rojects
+```
+
+#### 3️⃣ Update Submodules
+```sh
+git submodule update --init --recursive
+```
 > **Note:** If you only clone the main repo, the subproject folders will appear empty. The [ git submodule update --init --recursive ] command downloads all project folders and their contents.
+
+#### ✅ Installation Complete!
+Project loading may take some time.
+ * You can now start using the project.
 
 ### 2. Enter the Project Folder
 - Navigate to the folder of the project you are interested in.
@@ -48,6 +60,31 @@ git submodule update --init --recursive
 ### 3. Run the Project
 - For **HTML/CSS/JS** projects: Open the `index.html` file in your browser.
 - For **React.js** projects: Run `npm install` and then `npm run dev` in the relevant folder to start the project.
+
+### 📁 Project Usage Examples
+
+#### 🎯 Opening a Specific Project
+```sh
+# Example: Opening the Todo app
+cd todo-app-reactjs
+npm install
+npm start
+```
+
+#### 🌐 Opening HTML Projects
+```sh
+# Example: Opening the first website project in browser
+cd first-website-html
+# Open index.html file in browser
+```
+
+#### ⚛️ Running React Projects
+```sh
+# Example: Starting the Notes app
+cd notes-app-reactjs
+npm install
+npm run dev
+```
 
 ### 4. (Optional) Update Submodules
 If you want to update all submodules to their latest versions:
