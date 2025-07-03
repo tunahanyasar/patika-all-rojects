@@ -29,8 +29,13 @@ Bu repo, **Patika+ 4 Months Front-End Web Developer Bootcamp** sürecinde geliş
 
 
 ## 🛠️ Nasıl Kullanılır?
+### 🌐 Alternatif Erişim Yöntemi
+Bu ana repoyu klonlamadan projeleri tek tek incelemek istiyorsanız;
+Bu [GitHub repository](https://github.com/tunahanyasar/patika-all-rojects/tree/master) içindeki proje klasörlerine direkt olarak tıklayarak, ilgilendiğiniz projelere ayrı ayrı erişim sağlayabilirsiniz. Her proje klasörü kendi README dosyası ve kaynak kodları ile birlikte gelir.
 
-Bu depo, her proje klasörü için [git submodule](https://git-scm.com/book/tr/v2/Git-Ara%C3%A7lar%C4%B1-Submod%C3%BCl) kullanır. Projeleri kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
+>  Bu yapı **Git Submodules** (Git Alt Modülleri) teknolojisi ile sağlanmaktadır. Submodules, bir ana repository içinde başka repository'lere referans vermenizi ve bunları ayrı ayrı yönetmenizi sağlar.
+
+Ya da projeleri kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
 ### 1. Repoyu Tüm Alt Projelerle Birlikte Klonlayın
 
@@ -55,12 +60,6 @@ git submodule update --init --recursive
 Projelerin yüklenmesi biraz zaman alabilir.
  * Artık projeyi kullanmaya başlayabilirsiniz.
 
-
-
-
-
-
-
 ### 2. Proje Klasörüne Girin
 - İlgilendiğiniz projenin klasörüne girin.
 - Proje dokümantasyonunu (varsa) ve README dosyalarını inceleyin.
@@ -69,20 +68,17 @@ Projelerin yüklenmesi biraz zaman alabilir.
 - **HTML/CSS/JS** projeleri için: `index.html` dosyasını tarayıcıda açın.
 - **React.js** projeleri için: İlgili klasörde `npm install` ve ardından `npm run dev` komutlarını çalıştırın.
 
-### 📁 Proje Kullanım Örnekleri
-
-#### 🎯 Belirli Bir Projeyi Açma
-```sh
-# Örnek: Todo uygulamasını açma
-cd todo-app-reactjs
-npm install
-npm start
-```
-
 #### 🌐 HTML Projelerini Açma
 ```sh
 # Örnek: İlk website projesini tarayıcıda açma
 cd first-website-html
+# index.html dosyasını tarayıcıda açın
+```
+
+#### 🟡 JavaScript Projelerini Açma
+```sh
+# Örnek: Asian Kitchen Menu projesini açma
+cd asian-kitchen-menu
 # index.html dosyasını tarayıcıda açın
 ```
 
@@ -98,6 +94,7 @@ Tüm alt projeleri en güncel hallerine çekmek için:
 ```sh
 git submodule update --remote --merge
 ```
+
 
 ---
 

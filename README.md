@@ -29,7 +29,15 @@ This repository contains the projects and works I developed during the **Patika+
 
 ## 🛠️ How to Use?
 
-This repository uses [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for each project folder. To use or run the projects locally, follow these steps:
+### 🌐 Alternative Access Method
+If you want to examine the projects individually without cloning the main repository;
+You can access the projects you are interested in by clicking directly on the project folders in this [GitHub repository](https://github.com/tunahanyasar/patika-all-rojects/tree/master). Each project folder comes with its own README file and source codes.
+
+> This structure is provided by **Git Submodules** technology. Submodules allow you to reference other repositories within a main repository and manage them separately.
+
+Or to run the projects locally on your computer, follow these steps:
+
+### 1. Clone the Repository with All Subprojects
 
 ## 🚀 Installation Guide
 
@@ -61,20 +69,17 @@ Project loading may take some time.
 - For **HTML/CSS/JS** projects: Open the `index.html` file in your browser.
 - For **React.js** projects: Run `npm install` and then `npm run dev` in the relevant folder to start the project.
 
-### 📁 Project Usage Examples
-
-#### 🎯 Opening a Specific Project
-```sh
-# Example: Opening the Todo app
-cd todo-app-reactjs
-npm install
-npm start
-```
-
 #### 🌐 Opening HTML Projects
 ```sh
 # Example: Opening the first website project in browser
 cd first-website-html
+# Open index.html file in browser
+```
+
+#### 🟡 Opening JavaScript Projects
+```sh
+# Example: Opening the Asian Kitchen Menu project
+cd asian-kitchen-menu
 # Open index.html file in browser
 ```
 
